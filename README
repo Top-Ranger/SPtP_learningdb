@@ -1,0 +1,25 @@
+SPtP learning database
+   by Philipp Naumann and Marcus Soll
+
+-------------------------------------------------------------------------------
+
+This repository contains the learning database of 'SPtP'. It has been
+split from the main repository for easier handling.
+
+To use it copy the folders 'db' and 'test' into the folder 'learning' of the 
+program.
+
+-------------------------------------------------------------------------------
+
+License:
+
+Copyright (C)2014,2015 Philipp Naumann
+Copyright (C)2014,2015 Marcus Soll
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 
+International License. To view a copy of this license, 
+visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+Some of the KML-files are licensed under the Open Database License (ODbL).
+To view a copy of this license, 
+visit http://opendatacommons.org/licenses/odbl/1.0/.
